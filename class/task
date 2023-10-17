@@ -1,0 +1,12 @@
+f = open('app.log','r')
+text = f.read()
+f.close()
+
+print(text)
+
+lines = text.split('\n')
+print(lines)
+
+for line in lines:
+    if 'original priority'in line and 'new priority' in line:
+         print(line)
