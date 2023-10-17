@@ -1,0 +1,1 @@
+{"vedu":11, "susu":21, "bhagi":24, "gopi":33}

@@ -1,0 +1,104 @@
+Intervew Guidelines 
+---------------------
+
+Establish Proper Communication: 
+
+	1. Check the interview mail weather its zoom , teams, google meet and check the connectivity in your system
+    2. You should get any system releated issues (Keep full charging system + mobile)	
+	3. Incase of power cut during interview [Immidiatly contact for the HR/interviewer (check in mail) and inform you are connecting to mobile hotspot]
+	4. Incase after connecting wish them and check your audio connect is proper or not
+	5. Alos ask proactive, do you want me to turn on my video.
+	6. Dont go unmute or mute, always keep unmute and speek [Please find a place there external disturbance]
+	7. Incase of any connectivity/noice/not audible issues in other end , clearly communicate , I was not audible can you please speak bit lowsder 
+	
+	Example: Sorry to inturpt you, I am not able here you,  can you please speak bit lowder 
+	8. Where ever its require , ask  Can I share my ssytem screen & ask is it visible or not
+
+General questions: 
+      Briefly introduce your self
+				- Thanks for ask , my self Bhagay Lakshi Peddineni, usaully family & friends calls  me as Lakshmi 
+				- I have started my IT career in the year of 2020 and started with  zenex technologies compnay , hyderbad 
+				- Overall I have completed 2.5 years , during my experince I hava majorly woked python especialy API develpen using 
+				flask fraemwork 
+				- Alos I have an good exposure on UI developement using reactJS framework 
+				- If you wanted know anything more about please do let me know, I will happy to share with you 
+                        -- have good knowledge in rdbs like mysql and sqlite3 and mssql
+          
+
+-  have knowledge on web scraping using beautiful soup module
+      coming to my project:
+             I was working for ads team,  we have different ads listing product suhc as PLS , PLX and 
+       PLA.  to  display products listing details or debug the click events or
+       to know the transation details of the product we have impmned a tool(web attrbution tool). 
+
+        The tool is a kind web application we have used React JS for the front developmnet 
+        & backend we have used flask and python. We have created user interface to fect the add produtc 
+       details , with tranaction details with given specified period for all different add products 
+       such as PLS, PLA and PLX. 
+      In flask views, we have integraed backned API's   such for click event api's , seller api's , 
+     user/buyer api's to get the details
+      PLS : Product List Standard there standard proice set for the PLS item
+      PLX : Product Listing Extrem  eBay will be charged if the item sold with 30days after ad product list
+      PLA : Product List Advanced ,    The seller can bid the amonut , and the item was clicked from the ebay site and it will be sold out with in 30days , for the seller it will be charged
+                        
+
+
+- If you wanted know anything more about please do let me know, I will happy to share with you 			
+	 What are your daya to day activities
+				As we are following agile process , usaully we have morning synup meetings , we will discuss 
+				about the progress sprint tasks and incase of any blcokers to continue we will disucss with in the team for quick resolution. 
+				Then we will continute our sprint tasks such code developemt
+				After the code devekopemy we will test locally then all my changes are working  we will deploy the application in dev envirobment 
+				After deploying if all the valodation are good I  will push the code into got and will raise a PR to the review.
+				Incase of any other team members request review I will review the code. Incase of bugs raised from the QA team based on the priorty of
+				the bug we will plan to fix the bug. 
+				
+				
+	what is roles and responsebilites
+		Dont read the resume poitts tell the random 
+	
+
+
+e
+
+
+
+# Missing Intro
+#	 I have complete my gradulation in the year 2018 Bsc computers &  then I have compleyted my MBA 
+# 	 Right after my MBA I got an ooprtunity to work with zenex technologies through reffral, thats way my career started 
+
+
+
+
+Technical Questions:
+---------------------
+How to connect database ?   Here you need ask question back , through react or through python ?
+
+	We are using MySQL (oracle) database in my project , we are using sql connecto module to connect the mysql db and all our api response we are storing 
+	To connect to the database , we need basic details such as db_server(or IP or host) user name , password & port number  
+	
+Where it has ran the dataabase?
+	production databased are deployed in cloud server , but during our developmnet we have installed in our local system and working for ourfeaturs
+	
+	We are creating required test data using SQL quries 
+
+
+
+what is restapi methods?
+
+
+	We have imeplemehyed rest API  methods , to get , update, delete and fetch item purchaed details using
+	HTTP protocol moethds such GET, POST, PUT, DELETE
+	
+
+what is difference between put and update?
+
+	 We have PUT and POST methods , the POST method can be used to craete new resource in our case (new item purchase details) where the PUT can be used for both Create or  Update the resoutce
+	 
+	 
+
+expalin about oops concept:
+	
+		The Object Orienetd Program can be used to design the program , it has fource basic princples to re-use or enhance the code
+	
+such as abstarctin , encapuslation , inheritance and polynorohism. 

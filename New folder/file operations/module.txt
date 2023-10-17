@@ -1,0 +1,12 @@
+#actual args vs formal args
+"""
+the args which we are passing in fun calling statement those args are the calling acutal args
+the args which we are define in function definatition those args are the formal args
+
+In above example
+cmd1---> actual args
+cmd----> formal args
+
+
+"""
+

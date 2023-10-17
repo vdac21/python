@@ -1,0 +1,11 @@
+r=float(input("enter a radius value: "))
+l=float(input("enter a length value: "))
+w=float(input("enter a width value: "))
+b=float(input("enter a base value: "))
+h=float(input("enter a height value: "))
+area1=22/7*r*r
+print("area of the circle=",area1)
+area2=1*w
+print("area of the rectangle=",area2)
+area3=1/2*b*h
+print("area of the triangle=",area3)

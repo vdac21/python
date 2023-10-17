@@ -1,0 +1,16 @@
+f = open('app.log.s', 'r')
+text =  f.read()
+f.close()
+print(text)
+
+lines = text.split('\n')
+print(lines)
+d={}
+for line in lines:
+    if 'original priority' in line and 'new priority' in line:
+        #print(line)
+        for i in range(0, len(line)):
+            x=line[1:22]
+            y=line[64:69]
+        d[y]=x
+print(d)

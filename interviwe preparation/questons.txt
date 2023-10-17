@@ -1,0 +1,30 @@
+briefly introduce your self
+what are your daya to day activities
+what is roles and responsebilites
+how to connect database
+whaere it has run on database
+what is restapi methods
+what is difference between put and update
+expalin about oops concept
+what is encapsilation
+what is inheritence
+example of inheritence
+taks:how to create api in weather report
+sql where caluse in joins when to use
+
+
+brifely introdue your self?
+what is roles and resposibilites?
+waht is your project name?
+which server may run your project?
+differrence between tuple and list?
+given a string convert into the capital letters?
+virtual dom vs real dom?
+how to pass the variables in parent class to child class?
+what is hoc?
+when we use map?
+What is difference between state and props?
+How do you make API call from redux?
+How do you prevent browser back action in react?
+How lopping operation done in JSX?
+ 

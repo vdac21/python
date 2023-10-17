@@ -1,0 +1,3 @@
+f1=open("hello.txt","w")
+f1.write("welcome to python")
+f1.close

@@ -1,0 +1,5 @@
+# The life time and scope of a local variable is within function
+
+
+
+# The life time and scope of a gloabe variable is entire progarm

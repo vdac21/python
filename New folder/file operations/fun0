@@ -1,0 +1,3 @@
+f = open('app.log.log', 'r')
+text = f.read()
+f.close()
