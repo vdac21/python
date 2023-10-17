@@ -1,0 +1,118 @@
+1. Select the correct output of the following String operations
+
+str1 = 'Welcome'
+print (str1[:6] + ' PYnative')
+ 1)Welcome PYnative
+ 2) WelcomPYnative
+ 3)Welcom PYnative
+ 4)WelcomePYnative
+
+Explanation:
+
+The + operator is used for concatenating.
+To get a substring from the original string, we can use a slice [], operator.
+Syntax: str[start:end] If start is missing it takes 0 as the starting index.
+2. Select the correct output of the following String operations
+
+strOne = str("pynative")
+strTwo = "pynative"
+print(strOne == strTwo)
+print(strOne is strTwo)
+ 1)False False
+ 2)True True
+ 3) True False
+ 4)False True
+
+
+3. Choose the correct function to get the ASCII code of a character
+
+ 1)char('char')
+ 2)ord('char')
+ 3)ascii('char')
+
+Explanation:
+
+The ord() function is used to get the ASCII code of the character. Example: print(ord('p')) will print 112
+4. What is the output of the following string comparison
+
+print("John" > "Jhon")
+print("Emma" < "Emm")
+1) True
+False
+2) False
+False
+
+
+5. Select the correct output of the following string operations
+
+myString = "pynative"
+stringList = ["abc", "pynative", "xyz"]
+
+print(stringList[1] == myString)
+print(stringList[1] is myString)
+1) True
+   False
+2) True
+   True
+
+Explanation:
+
+The == operator returns True if both operands are equal
+The is operator returns return True if both variables point to the same object in memory. Otherwise, it returns False
+
+6. What is the output of the following code
+
+str1 = "My salary is 7000";
+str2 = "7000"
+
+print(str1.isdigit())
+print(str2.isdigit())
+ 1)False
+    True
+ 2)False
+   False
+ 3)True
+    False
+7. Strings are immutable in Python, which means a string cannot be modified.
+
+ 1)True
+ 2)False
+
+Explanation:
+
+Yes, strings are immutable in Python. You cannot modify the string once created. If you change a string, Python creates a new string with the updated value and assigns it to the variable.
+
+For example:
+
+str1 = "first" 
+id(str1) 
+str1 = str1+ " Two" 
+id(str1)
+Output:
+
+140560663354704
+8. Which method should I use to convert String "welcome to the beautiful world of python" to "Welcome To The Beautiful World Of Python"
+
+ 1)capitalize()
+ 2)title()
+Explanation:
+
+The title() function capitalize() the first letter of every word of the String.
+9. What is the output of the following string operations
+
+str = "My salary is 7000";
+print(str.isalnum())
+ 1)True
+2) False
+Explanation:
+
+Space is not an alpha numberic character.
+10. Choose the correct function to get the character from ASCII number
+
+1) ascii(number)
+ 2)char(number)
+3) chr(number)
+
+Explanation:
+
+The chr() function is used to get the character from the ASCII number. Example: print(chr(112)) will print p

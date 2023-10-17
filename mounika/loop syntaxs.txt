@@ -1,0 +1,29 @@
+1)Control flow statements: Use the if-else statements in Python for conditional decision-making
+2)for loop: To iterate over a sequence of elements such as list, string.
+3)range() function: Using a for loop with range(), we can repeat an action a specific number of times
+
+conditional statements syntax:
+
+if <expr>:
+    <statement(s)>
+elif <expr>:
+    <statement(s)>
+elif <expr>:
+    <statement(s)>
+    ...
+else:
+    <statement(s)>
+
+
+
+for loop syntax:
+for <var> in <iterable>:
+    <statement(s)>
+range:
+
+There are three ways you can call range():
+
+range(stop) takes one argument.
+range(start, stop) takes two arguments.
+range(start, stop, step) takes three arguments.
+

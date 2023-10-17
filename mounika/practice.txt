@@ -1,0 +1,16 @@
+1. Add two lists in 
+list1=[10,3,44,55,67]
+list2=[20,45,56,23,12]
+2.divison to the list
+list1=[10,3,44,55,67]
+3.find even number
+list1=[10,3,44,55,67]
+4.Concatenate two lists index-wise
+list1=["M","Na","i","Ke"]
+list2=["y","me","s","lly"]
+5.find repeted value
+x=[20, 19, 25, 17, 32, 17, 39,  17, 20]
+6.Reverse a list in python
+list1 =[100,200,300,400,500]
+
+

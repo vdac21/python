@@ -1,0 +1,5 @@
+1.Define a function? with syntax
+2.create a function?
+3.Create a function with variable length of arguments    
+4..WAF add two numbers 
+5.WAF square a number

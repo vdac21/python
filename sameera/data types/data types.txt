@@ -1,0 +1,171 @@
+data types:
+
+
+
+types of data value.
+
+data types
+
+1.int
+2.float
+3.boolean
+4.complex
+
+
+
+a=1(int)
+
+a=-1(int)
+
+b=0.2(float)
+
+boolean 0 and 1 0=flase
+                1=True
+
+3+7j complex 
+
+
+
+strings:
+
+
+collection of charcters("    ")
+
+
+types of declaring string
+
+single quotes
+double quotes
+triple quotes
+
+
+string methods
+
+
+lower()
+upper()
+endswith()
+startswith()
+replace()
+split()
+count()
+Rstrip()
+lstrip()
+strip()
+removeprefix()
+removesurfix()
+index()
+find()
+
+
+TUPLE:
+
+---->()
+---->allow different types of elements
+----->Allow duplicates
+----->allow indexs and scling
+
+----->immutable
+----->no methods we can use built in
+a=(1,2,3,4,'triangle',Flase)
+operations
+
+1.Conctenation
+2.Iteration
+3.Identity
+4.membership
+5.repetation
+
+
+set
+
+---->{}
+---->do not allow duplicates
+---->no index slicing is not possible,unorded
+---->not allow mutable objects
+
+
+
+set methods
+
+add()
+update()
+pop()
+remove()
+
+
+set operations
+
+
+union
+intersection
+subset 
+difference
+
+
+dictionary
+
+---->{}
+
+
+get
+update
+values
+keys
+Items
+
+
+
+operators in python
+Arithamatecal operaters
+logical
+relational
+
+
+
+Arthamatical operaters:
+
+addtion +
+subtraction -
+Multiplication *
+DIvision    /
+power **
+
+
+relational operaters
+
+<
+>
+<=
+>=
+==
+!=
+
+
+logical operaters
+
+And
+or 
+not
+
+
+                                                 TRue=1
+                                                 Flase=0
+
+
+trueth table(and)          trueth table(or)
+
+x   y     c
+0    0    0
+0    1    0
+1    0    0
+1    1    1
+trueth table(or)
+x   y     c
+0    0    0
+0    1    1
+1    0    1
+1    1    1
+
+
+

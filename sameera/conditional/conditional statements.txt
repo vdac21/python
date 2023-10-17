@@ -1,0 +1,27 @@
+conditional statements
+
+
+
+--->if
+--->elif
+---->else
+---->nested if
+
+
+syntax:
+if condition:
+   #body
+elif condition:
+   #body
+else:
+
+
+nested if:
+if condition:
+   #body
+
+   if condition:
+   #body
+   else:
+
+else:

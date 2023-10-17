@@ -1,0 +1,86 @@
+1. Select the correct output of the following String operations
+
+str1 = 'Welcome'
+print (str1[:6] + ' PYnative')
+ 1)Welcome PYnative
+ 2) WelcomPYnative
+ 3)Welcom PYnative
+ 4)WelcomePYnative
+
+
+2. Select the correct output of the following String operations
+
+strOne = str("pynative")
+strTwo = "pynative"
+print(strOne == strTwo)
+print(strOne is strTwo)
+ 1)False False
+ 2)True True
+ 3) True False
+ 4)False True
+
+3.. Choose the correct function to get the ASCII code of a character
+
+ 1)char('char')
+ 2)ord('char')
+ 3)ascii('char')
+
+
+4. What is the output of the following string comparison
+
+print("John" > "Jhon")
+print("Emma" < "Emm")
+1) True
+False
+2) False
+False
+
+
+5. Select the correct output of the following string operations
+
+myString = "pynative"
+stringList = ["abc", "pynative", "xyz"]
+
+print(stringList[1] == myString)
+print(stringList[1] is myString)
+1) True
+   False
+2) True
+   True
+
+6. What is the output of the following code
+
+str1 = "My salary is 7000";
+str2 = "7000"
+
+print(str1.isdigit())
+print(str2.isdigit())
+ 1)False
+    True
+ 2)False
+   False
+ 3)True
+    False
+
+7. Strings are immutable in Python, which means a string cannot be modified.
+
+ 1)True
+ 2)False
+
+8. Which method should I use to convert String "welcome to the beautiful world of python" to "Welcome To The Beautiful World Of Python"
+
+ 1)capitalize()
+ 2)title()
+
+9. What is the output of the following string operations
+
+str = "My salary is 7000";
+print(str.isalnum())
+ 1)True
+2) False
+
+10. Choose the correct function to get the character from ASCII number
+
+1) ascii(number)
+ 2)char(number)
+3) chr(number

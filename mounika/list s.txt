@@ -1,0 +1,112 @@
+1. Select all the correct options to join two lists in Python
+    listOne  =  ['a', 'b', 'c', 'd']
+    listTwo =  ['e', 'f', 'g']
+ 
+ a)newList = listOne + listTwo)*
+ b)newList = extend(listOne, listTwo)
+ c)newList = listOne.extend(listTwo)*
+ d)newList.extend(listOne, listTwo)
+
+Explanation:
+
+1.The extend() method adds all the elements of an iterable (list, tuple, string) to the end of the list.
+2.You can also use the addition operator to join two list in Python
+
+
+
+2. What is the output of the following code
+
+      aList = ["PYnative", [4, 8, 12, 16]]
+      print(aList[0][1])    
+      print(aList[1][3])
+a) P 8
+   Y 16
+b) P
+   12
+c) Y*
+   16
+
+3. What is the output of the following list operation
+
+      sampleList = [10, 20, 30, 40, 50]
+      print(sampleList[-2])
+      print(sampleList[-4:-1])
+  a) 40*
+    [20, 30, 40]
+  b)IndexError: list index out of range
+Explanation:
+
+Use the range of negative indexes to search from the end of the list.
+
+4. What is the output of the following list operation
+        aList = [10, 20, 30, 40, 50, 60, 70, 80]
+        print(aList[2:5])
+        print(aList[:4])
+        print(aList[3:])
+ a)[20, 30, 40, 50]
+   [10, 20, 30, 40]
+   [30, 40, 50, 60, 70, 80]
+ b)[30, 40, 50]*
+   [10, 20, 30, 40]
+   [40, 50, 60, 70, 80]
+Explanation:
+
+Python list collection is ordered and changeable. The list also allows duplicate members. To get a sublist out of the list, we need to specify the range of indexes.  To get a sublist, we need to specify where to start and where to end the range.
+
+Syntax: list[start:end] If start is missing it takes 0 as the starting index
+
+5. What is the output of the following list function?
+     sampleList = [10, 20, 30, 40, 50]
+     sampleList.append(60)
+     print(sampleList)
+     sampleList.append(60)
+     print(sampleList)
+a) [10, 20, 30, 40, 50, 60]
+   [10, 20, 30, 40, 50, 60]
+b) [10, 20, 30, 40, 50, 60]*
+   [10, 20, 30, 40, 50, 60, 60]
+Explanation:
+
+The append() method is used to add an item at the end of a list. Also, the list allows duplicate items.
+6. What is the output of the following code
+
+     my_list = ["Hello", "Python"]
+     print("-".join(my_list))
+ a)HelloPython-
+ b)Hello-Python*
+ c)-HelloPython
+Explanation:
+
+The join() method will join all items in a list into a string, using a hyphen character as a separator.
+
+7. In Python, list is mutable
+
+  a) False
+  b)True*
+
+Explanation:
+
+The list collection is ordered and changeable. A mutable object can be changed after it is created. So we can update or remove elements from a list once it is created.
+8. What is the output of the following code
+
+    list1 = ['xyz', 'zara', 'PYnative']
+    print (max(list1))
+ a) PYnative
+ b)zara*
+
+9. What is the output of the following
+
+     aList = [5, 10, 15, 25]
+     print(aList[::-2])
+ a)[15, 10, 5]
+ b)[10, 5]
+ c)[25, 10]*
+Explanation:
+
+aList[::-2] Start from the end of the list with step value 2.
+10. What is the output of the following list comprehension
+
+     resList = [x+y for x in ['Hello ', 'Good '] for y in ['Dear', 'Bye']]
+     print(resList)
+ a)[‘Hello Dear’, ‘Hello Bye’, ‘Good Dear’, ‘Good Bye’]*
+ b)[‘Hello Dear’, ‘Good Dear’, ‘Hello Bye’, ‘Good Bye’]

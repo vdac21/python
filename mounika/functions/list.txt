@@ -1,0 +1,16 @@
+1.Program to find the max, min number from the list user input.
+2. Code to remove duplicate from list using List comprehension 
+3. Program to find the sum of list elements.
+4. How to Multiply all the elements of list
+5.Program to generate a number list between two ranges.
+6.How to reverse the List using slice
+7.How to flatten a list of lists with a list comprehension
+8.How to Intersect two list
+9.Program to shuffle a list and print
+10. Program to convert a list into string
+11.How to get the square of each list element between two range
+12. Program to get the difference between two List using comprehension 
+13. How to count the number of list in list of list.
+14. How to get the first element from each nested list of a list
+15. How to count occurrence of repeated element in list
+

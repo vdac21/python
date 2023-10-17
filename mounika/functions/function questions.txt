@@ -1,0 +1,20 @@
+1.How to Create a Function with Arguments in Python
+2.How to Create a Function with Default Arguments in Python
+3.How to Create a Function that Returns a Value in Python
+4.How to Create a Function that Returns Multiple Values in Python
+5.How to Create a Function that Takes a Variable Number of Arguments in Python
+6.Python function that prints a text
+7.Python function that accepts two numbers as arguments and returns the sum
+8.Python function that accepts different values as parameters and returns a list
+9.Python function that returns a dictionary
+10. Python function that returns a tuple
+11.Python function that accepts a list as a parameter
+12.Python function that accepts a dictionary as a parameter
+13.Python function using positional arguments
+14.Python function using keyword arguments
+15.Python function using default arguments
+16.Python function using optional arguments
+17.Passing an arbitrary number of arguments to a Python function
+18.Python function that returns multiple values
+19.Python function to check if a number is palindrome or not
+20. Python function to find the factorial of a number
