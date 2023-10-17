@@ -1,0 +1,20 @@
+variable theory:
+
+1.which will store  a value
+2.address of value
+
+
+syntax:      variable=value
+
+
+
+a=10
+a is variable
+10 value
+213001---- meaning
+
+variable address ----id()
+Rules:
+1.Don't start with digit (or) symbols
+2.starting letter should be alphabets and underscore
+3.case sensitive
